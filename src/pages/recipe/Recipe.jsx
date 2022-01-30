@@ -6,4 +6,4 @@ export default function Recipe() {
             Recipe Page
         </div>
     )
-}Recipe
+}

@@ -6,4 +6,4 @@ export default function Search() {
             Search Page
         </div>
     )
-}Search
+}
